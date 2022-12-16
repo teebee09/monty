@@ -1,1 +1,1 @@
-# Monty Scripting Language. Compiled into Monty Byte Codes
+# Monty Scripting Language, compiled into Monty Byte Codes
